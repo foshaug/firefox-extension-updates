@@ -11,6 +11,16 @@
               "strict_min_version": "142.0"
             }
           }
+        },
+        {
+          "version": "1.1.1",
+          "update_link": "https://raw.githubusercontent.com/foshaug/firefox-extension-updates/main/packages/x-gif-downloader-1.1.1.xpi",
+          "update_hash": "sha256:37671d74de7073558c1ffeed12bdbe2e093f53f61368bcd621a5e9bd4c2a7de8",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
         }
       ]
     }
